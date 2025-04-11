@@ -11,7 +11,7 @@ AI Based FileAgent is a lightweight and efficient utility designed to enhance fi
 - **Cross-Platform**: Compatible with major operating systems (Windows, Linux, macOS).
 - **Configurable**: Provides options to customize behaviors and file handling preferences.
 - **Lightweight**: Minimal resource usage, ensuring it works efficiently even in resource-constrained environments.
-
+ 
 ---
 
 ## Installation
