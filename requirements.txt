@@ -1,0 +1,15 @@
+python-dotenv
+packaging
+fastapi
+uvicorn
+groq
+openai
+langchain_groq
+langchain_community
+langchain_openai
+browser-use
+langchain-experimental
+langchain
+langgraph
+litellm
+langsmith
